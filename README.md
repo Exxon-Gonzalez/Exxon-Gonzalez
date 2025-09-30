@@ -15,14 +15,47 @@ Hi there! My name is Exxon Gonzalez, and I am a Computer Engineer. I likely enjo
 ---
 
 ## 💻 Projects  
-**⚙️Softengineer.exe** (www.softwareengineerexe.com):
-Website 
-- Developed a React Stopwatch using React hooks (useState, useEffect, useRef) for accurate real-time tracking, featuring start/stop/reset controls and formatted output  
-- Built a calculator and Pokémon image fetcher utilizing DOM manipulation and asynchronous API fetching  
-- Collaborated on a book listing web app featuring dynamic data handling and modular code structure  
-- Practiced clean UI design, reusable components, and Git-based collaboration  
-🔗 Live Project Website  
+- **⚙️Softengineer.exe** (www.softwareengineerexe.com): Website created with HTML, CSS and Javascript. It loads books with a dynamic Json to make a book listing and separate them into categories. In constant updates.
+- **☕Coffee landing page template**(https://github.com/Exxon-Gonzalez/CoffeeHomepage): My own landing website design template for coffee business.  
 
 ---
+
+## 🎓 Education  
+- High School Diploma with Technical Specialization in Computer Science (2016-2019)
+- Bachelor of Science in Computer Systems Engineering (2019-2024)
+
+---
+
+## 📜 Certifications  
+- Structured Cabling and Networking Certificate (Leviton)
+- Network fundamentals (Cisco Networking)
+
+---
+
+## 📚 Relevant Coursework
+- SQL Server
+- Software Engineering Fundamentals
+- C#, Python, Javascript, VUE.JS
+  
+---
+
+## 💼 Work Experience  
+**General administrator - SEM soluciones electromecanicas (2022–2023)**  
+- Management, monitoring, and oversight of purchase orders, quotations, invoicing, and requisitions.
+- Implementation of NAS systems, cloud-based file storage, CCTV, data backup solutions, and configuration
+ of LAN, WLAN, and access points.
+- Good comunication with costumers.
+
+**IT & Network Support – Prime Wheel Mexico (2023-2025)**
+- Provided user support through ticketing system (Helpdesk) and on-site technical assistance
+- Performed hardware, software, and OS updates on workstations.
+- Diagnosed and resolved software, hardware, and network issues.
+- Configured shared folders in domain environments and managed printer installations.
+- Troubleshot technical issues in conventional and Zebra printers.
+- Diagnosed and resolved failures in CCTV, telephony, data/voice networks.
+
+---
+
+Feel free to reach out or connect! 🚀
 
 

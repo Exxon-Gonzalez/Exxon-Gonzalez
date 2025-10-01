@@ -8,9 +8,9 @@ Hi there! My name is Exxon Gonzalez, and I am a Computer Engineer. I likely enjo
 ---
 
 ## 🛠 Technical Skills
-**Languages & Tools:** C#, JavaScript, SQL Server, HTML5, CSS3, Git, Python, VUE.js.
-**Resolve IT Troubleshoots:** Report making, software and hardware troubleshoots, Operating System knowledge with Windows and Linux, troubleshoots with network problems.
-**Other:** Bilingual - Spanish and English
+- **Languages & Tools:** C#, JavaScript, SQL Server, HTML5, CSS3, Git, Python, VUE.js.
+- **Resolve IT Troubleshoots:** Report making, software and hardware troubleshoots, Operating System knowledge with Windows and Linux, troubleshoots with network problems.
+- **Other:** Bilingual - Spanish and English
 
 ---
 

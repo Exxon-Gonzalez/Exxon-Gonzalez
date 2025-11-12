@@ -17,7 +17,7 @@ Hi there! My name is Exxon Gonzalez, and I am a Computer Engineer. I likely enjo
 ## 💻 Projects  
 - **⚙️Softengineer.exe** (www.softwareengineerexe.com): Website created with HTML, CSS and Javascript. It loads books with a dynamic Json to make a book listing and separate them into categories. In constant updates.
 - **☕Coffee landing page template**(https://github.com/Exxon-Gonzalez/CoffeeHomepage): My own landing website design template for coffee business.
-- **📲 CitaYa.com: A MERN STACK project developed in collaboration with a teammate. It enables users to book appointments with business owners or service providers. Currently a work in progress.
+- **📲 CitaYa.com**: A MERN STACK project developed in collaboration with a teammate. It enables users to book appointments with business owners or service providers. Currently a work in progress.
 
 ---
 

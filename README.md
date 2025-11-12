@@ -9,7 +9,7 @@ Hi there! My name is Exxon Gonzalez, and I am a Computer Engineer. I likely enjo
 
 ## 🛠 Technical Skills
 - **Languages & Tools:** C#, JavaScript, SQL Server, HTML5, CSS3, Git, Python, MERN Stack.
-- **Other abilities** Excelente comunication with customers, and network troubleshooting.
+- **Other abilities** Excelent comunication with customers, and network troubleshooting.
 - **Other:** Bilingual - Spanish and English
 
 ---
@@ -40,19 +40,12 @@ Hi there! My name is Exxon Gonzalez, and I am a Computer Engineer. I likely enjo
 ---
 
 ## 💼 Work Experience  
-**General administrator - SEM soluciones electromecanicas (2022–2023)**  
-- Management, monitoring, and oversight of purchase orders, quotations, invoicing, and requisitions.
-- Implementation of NAS systems, cloud-based file storage, CCTV, data backup solutions, and configuration
- of LAN, WLAN, and access points.
-- Good comunication with costumers.
+**Web Development & IT Solutions - SEM soluciones electromecanicas (2022–2023)**  
+- Designed and developed the company’s website from scratch, including domain acquisition and hosting setup.
+- Conducted IT-related price comparisons and quotations to optimize procurement decisions.
+- Continuously improved and updated the website to enhance functionality and user experience.
+- Developed a custom C# application for generating quotations, incorporating variables such as tax, product profitability, and business margins. The application exported finalized quotations as branded PDF documents ready to send to the customers.
 
-**IT & Network Support – Prime Wheel Mexico (2023-2025)**
-- Provided user support through ticketing system (Helpdesk) and on-site technical assistance
-- Performed hardware, software, and OS updates on workstations.
-- Diagnosed and resolved software, hardware, and network issues.
-- Configured shared folders in domain environments and managed printer installations.
-- Troubleshot technical issues in conventional and Zebra printers.
-- Diagnosed and resolved failures in CCTV, telephony, data/voice networks.
 
 ---
 
